@@ -1,0 +1,6 @@
+# Skipping all files with the extension .o and .a
+*.[oa]
+
+# Ignoring all pdf files
+*.pdf
+
