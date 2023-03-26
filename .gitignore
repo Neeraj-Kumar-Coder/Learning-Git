@@ -4,3 +4,8 @@
 # Ignoring all pdf files
 *.pdf
 
+# Ignoring all log files
+*.log
+
+# Ignoring the outer blank file
+/blank/
